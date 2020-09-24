@@ -1,0 +1,79 @@
+.img-fluid1{
+    height:600px ;
+    
+    }
+    .btn1{
+        height: 25px; 
+        width:500px;
+        
+       }
+       .btn1{
+         height: 25px; 
+         width:500px;
+         
+        }
+       .btn-info1{
+         background-color:transparent;
+       }
+.Titulito{
+    font-style: bold;
+    font-size:48px;
+    text-align: center;
+    background-color: #D2F1F9;
+}
+.card{
+    display: inline-block !important;
+    margin: 5%;
+    max-width: 900px;  
+    border-radius: 40px;
+
+  }
+  .imagent{
+      width:700px ;
+  }
+
+.Confirmado{
+color: #57EC6D ;
+font-size: 24px;
+}
+.sinConfirmar{
+color: #E80725 ;
+font-size: 24px;
+}
+.TI{
+font-family:'Courier New', Courier, monospace;
+font-size: 32px;   
+}
+.CAP{
+    margin:5%;
+}
+.img-fluid{
+width: 100px;
+}
+.DIS{
+  padding: 4%;
+}
+.FONDO{
+    background-image: url(https://static.nationalgeographicla.com/files/styles/image_3200/public/earth-day-adventure-gallery-hammock.jpg?w=1190&h=794);
+}
+.btn{
+    margin-left: 4%;
+
+}
+
+.TU{
+margin-top: 1%;
+margin-left: 3%;
+
+}
+.cardin1{
+    background-color: #FFA07A;
+    color: wheat;
+    }
+.CAR{
+    padding: 2%;
+    margin-top: 2%;
+    margin-left: 23%;
+    margin-right: 1%;
+    background-color: #B1EAFC ;
+}
